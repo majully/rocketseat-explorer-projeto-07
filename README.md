@@ -1,2 +1,2 @@
-# rocketseat-explorer-projeto-07
-Projeto 07 do programa Explorer da escola de codificação Rocketseat.
+# Rocketseat Explorer Projeto 07
+Projeto 07 exemplo de SPA JavaScript do programa Explorer da escola de codificação Rocketseat.
